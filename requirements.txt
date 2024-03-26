@@ -1,0 +1,4 @@
+openai
+FPDF
+streamlit
+pandas
